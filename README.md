@@ -5,4 +5,6 @@ Group 5 (Mika, Izzy)...     -    This is the JMP Journal. It has Models 1 - 3 (b
 
 .jrp Files      -      Model 4 was a potential improved model. Not used in final results / conclusion, but I think is useful as a pointer of where we could improve Model 3 if we worked on this dataset again. (group by color) shows the Models' results if you look at each group separately. This is how I noticed they partly respond to different factors / interactions, might need different transformations of Y, etc (if looking at Model 2 (group by color), the different groups have different box-cox lambda values). 
 
+NEWinsurance 2 Smoker baseline yes.jmp     -      This is the dataset I used (from the original insurance.csv file, + any changes to data. E.g. Removing the 3 rows with missing data, transformY, dummy variables, etc.)
+
 STAT311-50 Final Project Report (Izzy...)    -    The Final Project Report.
