@@ -2,7 +2,7 @@
 
 Group 05 (Feifei Li, Izzy Mika) - Final Projct Presentation...     -    PowerPoint / Presentation Slides. 
 
-Group 5 (Mika, Izzy) - Final Project - JMP Journal.jrn     -    This is the JMP Journal. It has Models 1 - 3 (bottom), and distributions and scatterplot graphs at the top (demonstrate the Charges distribution being mostly normalized by transformY, interactions of BMIxSmoker, and potential interaction of more combinations of factors (inconclusive).
+Group 5 (Mika, Izzy) - Final Project - JMP Journal.jrn     -    This is the JMP Journal. It has Models 1 - 3's core data / diagnostics like Parameter Estimates, Studentized Residuals, etc (bottom), and distributions and scatterplot graphs at the top (demonstrate the Charges distribution being mostly normalized by transformY, interactions of BMIxSmoker, and potential interaction of more combinations of factors (inconclusive)).
 
 .jrp Files      -      JMP report files. 
 	Notes: Model 4 was a potential improved model. Not used in final results / conclusion, but I think is useful as a pointer of where we could improve Model 3 if we worked on this dataset again. 
