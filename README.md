@@ -9,5 +9,6 @@ Group 5 (Mika, Izzy) - Final Projct - JMP Journal.jrn     -    This is the JMP J
 NEWinsurance 2 Smoker baseline yes.jmp     -      This is the dataset I used (from the original insurance.csv file, + any changes to data. E.g. Removing the 3 rows with missing data, transformY, dummy variables, etc.)
 
 STAT311-50 Final Project Report (Izzy...)    -    The Final Project Report (mostly work that I did).
+
 Group 05_Report.pdf  - Final Project Report (mostly work that Feifei did).
 
